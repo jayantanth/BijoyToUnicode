@@ -22,6 +22,12 @@ Installation & Usage
 #. Call convertBijoyToUnicode($stringToFormat) function, Unicode formatted string will be returned.
 #. For example, check example.php
 
+-------------------------
+Online Usage
+-------------------------
+
+http://mynul.com/bangla/
+
 ----------
 Disclaimer
 ----------
